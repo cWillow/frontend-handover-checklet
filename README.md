@@ -6,6 +6,7 @@ A list of things I've learnt to check/discuss before or during handover from a d
 ## Draft list:
 
 * [ ] Always check if there are google analytics or other useful data that has informed or could inform the following decisions 
+* [ ] Discuss an agreed [performance budget](https://addyosmani.com/blog/performance-budgets/) in advance
 * [ ] Browser spec
 ---
 
